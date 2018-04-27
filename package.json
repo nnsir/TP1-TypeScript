@@ -1,0 +1,11 @@
+{
+  "name": "tp1typescript",
+  "version": "1.0.0",
+  "description": "TP1 TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Limouri Anouar",
+  "license": "MIT"
+}
